@@ -1,0 +1,52 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --font-serif: 'Cormorant Garamond', Georgia, serif;
+    --font-sans: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+    --font-script: 'Alex Brush', cursive;
+  }
+
+  body {
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+    background-color: #FDFBF7;
+    color: #222222;
+  }
+}
+
+.font-serif {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+}
+
+.font-sans {
+  font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+}
+
+.font-script {
+  font-family: 'Alex Brush', cursive;
+}
+
+/* Subtle botanical textured noise pattern */
+.bg-warm-cream {
+  background-color: #FDFBF7;
+}
+
+.bg-forest-olive {
+  background-color: #2E3B2B;
+}
+
+.text-forest-olive {
+  color: #2E3B2B;
+}
+
+.bg-sun-gold {
+  background-color: #D4A359;
+}
+
+.text-sun-gold {
+  color: #D4A359;
+}
+
+.border-sun-gold {
+  border-color: #D4A359;
+}

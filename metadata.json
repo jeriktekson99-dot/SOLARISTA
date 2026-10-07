@@ -1,0 +1,6 @@
+{
+  "name": "Solara de Alfonso | Modern Tropical Retreat",
+  "description": "Premier vacation rental (Airbnb) in Alfonso, Cavite. Where comfort meets nature.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
